@@ -4,6 +4,8 @@
 
 ## Overview
 ![Air Craft](aircraft-155380716-612x612.jpg)
+![alt text](aircraft-155380716-612x612.jpg)
+
 
 This project aims to analyze aviation accidents dataset to identify the types of aircrafts that are more prone to accidents and determine safest and lowrisk aricrfats for purchase.We will also determine the type of accidents occuring on certain aircrafts and identify crash trends, patterns and relationships with weather, locations and other variables. We will use exploratory data analysis to generate insights for Dragon Airline.
 
