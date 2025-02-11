@@ -1,5 +1,5 @@
 ## Phase-1-project
-## Aviation Accident Database & Synopses, 1996 to 2023
+## Aviation Accident Database & Synopses, 1946 to 2023
 ### Author: Maryan Daud
 
 ## Overview
@@ -12,13 +12,13 @@ Dragon Airline company is expanding into new industries to diversify its portfol
 
 ### The key business questions are;
 
-What is the safest aircraft for Purchase?
+1. What is the safest aircraft for Purchase/make?
 
-Which external factors(weather/location)contribute to highest number of accidents/incidents? 
+2. Which external factors(weather/location)contribute to highest number of accidents/incidents? 
 
-Trends of crashes overtime?
+3. Trends of accidents/incidents overtime?
 
-Relationship between Fatalities/Injuries versus Aircraft qualities?
+4. Relationship between Fatalities/Injuries versus Aircraft qualities?
 
 ## Data
 The NTSB aviation accident database contains information from 1946 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters
@@ -91,7 +91,7 @@ We reccomend:
 
 ### For more information 
 
-See full analysis in the: aviation.ipynb
+See full analysis on notebook and Tableau dashboard
 
 ### Tableau dashboard
 
