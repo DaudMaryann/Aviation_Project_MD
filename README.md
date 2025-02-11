@@ -3,9 +3,7 @@
 ### Author: Maryan Daud
 
 ## Overview
-![Air Craft](aircraft-155380716-612x612.jpg)
-![alt text](aircraft-155380716-612x612.jpg)
-
+![Air Craft](images_new\overview.jpg)
 
 This project aims to analyze aviation accidents dataset to identify the types of aircrafts that are more prone to accidents and determine safest and lowrisk aricrfats for purchase.We will also determine the type of accidents occuring on certain aircrafts and identify crash trends, patterns and relationships with weather, locations and other variables. We will use exploratory data analysis to generate insights for Dragon Airline.
 
@@ -40,19 +38,19 @@ This project uses exploratory data analysis to generate insights for a saftey of
 
 In determining the safety of aircrafts data  the aircraft make with most accidents is the Cessna and piper while the Mulholland Robert A reported the least number of accidents.
 
-![Aircraft Make](image-2.png)
+![Aircraft Make](images_new\make.png)
 
 The data shows various external factors contribute to higher occurence of accidents/incidents such as location,with Anchorage AK attributing to majority of the incidents/Accidents 
 
-![Location](image-6.png)
+![Location](images_new\location.png)
 
 Almost all Accidnets/Incidents occur during VMC weather condition weather 
 
-![Weather Condition](image-5.png)
+![Weather Condition](images_new\weather.png)
 
 With Majority of incidents/Accidents happening during takeoff and landing according to broadphase of flights 
 
-![Broad Phase on Flight](image-4.png)
+![Broad Phase on Flight](images_new\broadphase.png)
 
 No meaningful correlation between fatality/Injuries over the years meaning total injuries or fatality haven't changed significantly over time.
 
@@ -60,10 +58,10 @@ A weak positive correlation between Fatal Injuries and Injuries vs Number of Eng
 
 This further analysis shows that although more accidents are recorded in aircrafts with less engines that is less than 3 the chances of injury and death is less likely as compared to aircrafts with more engines 
 
-![Correlation](image-3.png)
+![Correlation](images_new\correlation.png)
 
 
-## Conclusion 
+## Conclusions
 
 In conclusion this avaiation dataset has provided a comprehensive view on aircraft accident trends overtime , provided best routes and weather conditions for flying and provided insights on areas to optimize flight safety, we therefore conclude that 
 
