@@ -91,7 +91,7 @@ We reccomend:
 
 ### For more information 
 
-See full analysis in the: (aviation.ipynb)
+See full analysis in the: aviation.ipynb
 
 ### Tableau dashboard
 
